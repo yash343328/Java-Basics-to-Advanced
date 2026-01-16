@@ -67,13 +67,6 @@ The goal of this repository is to provide clear, well-organized, and easy-to-und
     
 4.  Run the program using:  
     java FileName
-    
-
-## Folder Structure
-
-# 
-
-Each folder represents a Java topic, starting from basics and moving toward advanced concepts. Programs are named clearly for easy understanding.
 
 ## Contribution
 
