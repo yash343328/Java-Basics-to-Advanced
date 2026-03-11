@@ -1,6 +1,5 @@
 # Java-Basics-to-Advanced
 
-# 
 
 Java-Basics-to-Advanced is a structured learning repository designed to help students and developers learn Java programming step by step, from basic concepts to advanced topics.
 
@@ -10,7 +9,6 @@ The goal of this repository is to provide clear, well-organized, and easy-to-und
 
 ## What You Will Learn
 
-# 
 
 -   Java basics and syntax
     
@@ -40,8 +38,7 @@ The goal of this repository is to provide clear, well-organized, and easy-to-und
     
 
 ## Who This Repository Is For
-
-# 
+ 
 
 -   Beginners learning Java
     
@@ -56,7 +53,6 @@ The goal of this repository is to provide clear, well-organized, and easy-to-und
 
 ## How to Run Java Programs
 
-# 
 
 1.  Install JDK on your system
     
@@ -69,13 +65,11 @@ The goal of this repository is to provide clear, well-organized, and easy-to-und
     java FileName
 
 ## Contribution
-
-# 
+ 
 
 Contributions are welcome. You can add programs, improve documentation, or optimize existing code.
 
 ## Author
 
-# 
 
 Yash Jain
